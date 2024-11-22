@@ -10,7 +10,7 @@ Fullstack developer wanna be
 
 
 <h1>
-  <img src="https://cdn.prod.website-files.com/6100d0111a4ed76bc1b9fd54/62217e885f52b860da9f00cc_Apa%20Itu%20Golang%3F%20Apa%20Saja%20Fungsi%20Dan%20Keunggulannya%20-%20Binar%20Academy.jpeg"/>
+  <img src="https://media1.tenor.com/m/2z7NVAVjM_YAAAAd/guts-berserk.gif"/>
 </h1>
 
 Hopefully, it will make more progress over time.
