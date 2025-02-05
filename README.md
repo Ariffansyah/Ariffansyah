@@ -2,7 +2,7 @@
 
   <h1><strong>Hi, I'm Just an Ordinary Man</strong></h1>
 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
+  <img src="https://krita-artists.org/uploads/default/original/3X/e/e/eed449bb8614ed523744833dcb12ceef5deda69f.gif" width="80px">
 
   <p>
     <em>"Turning ideas into reality, one line of code at a time."</em>
