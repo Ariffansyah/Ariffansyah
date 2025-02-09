@@ -24,4 +24,6 @@
 [![ArpTheF's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Ariffansyah&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ariffansyah&layout=compact&card_width=470&bg_color=151515&text_color=9F9F9F&title_color=ffffff)
+
+![Fedora](https://img.shields.io/badge/OS-Fedora-blue?logo=fedora) ![Arch Linux](https://img.shields.io/badge/OS-Arch%20Linux-blue?logo=arch-linux) ![Ubuntu](https://img.shields.io/badge/OS-Ubuntu-orange?logo=ubuntu)
 </div>
