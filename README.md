@@ -2,12 +2,6 @@
 
   <h1><strong>Hi, I'm Just an Ordinary Man</strong></h1>
 
-  <img src="https://krita-artists.org/uploads/default/original/3X/e/e/eed449bb8614ed523744833dcb12ceef5deda69f.gif" width="80px">
-
-  <p>
-    <em>"Turning ideas into reality, one line of code at a time."</em>
-  </p>
-
   <hr>
 
 </div>
@@ -25,5 +19,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ariffansyah&layout=compact&card_width=470&bg_color=151515&text_color=9F9F9F&title_color=ffffff)
 
-![Fedora](https://img.shields.io/badge/OS-Fedora-blue?logo=fedora) ![Arch Linux](https://img.shields.io/badge/OS-Arch%20Linux-blue?logo=arch-linux) ![Ubuntu](https://img.shields.io/badge/OS-Ubuntu-orange?logo=ubuntu)
-</div>
+![](https://komarev.com/ghpvc/?username=Ariffansyah&color=green&style=for-the-badge)
