@@ -44,13 +44,14 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ariffansyah&show_icons=true&theme=github_dark" height="180" />
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ariffansyah&layout=compact&card_width=320&theme=github_dark" height="180" />
   <br>
-  <img src="https://komarev.com/ghpvc/?username=Ariffansyah&color=green&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Ariffansyah&color=FF61A6&style=for-the-badge" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF61A6&height=100&section=footer" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF61A6&height=100&section=footer" alt="footer" />
 </div>
