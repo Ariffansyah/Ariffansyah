@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF61A6&height=120&section=header&text=Hi%2C%20I'm%20Ariffansyah!&fontSize=38&fontAlignY=40&desc=Just%20an%20Ordinary%20Man&descSize=20&descAlign=60" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BCD4&height=120&section=header&text=Hi%2C%20I'm%20Ariffansyah!&fontSize=38&fontAlignY=40&desc=Just%20an%20Ordinary%20Man&descSize=20&descAlign=60" alt="header" />
 
   <h2>Fullstack Developer Wannabe</h2>
   <p>
@@ -47,11 +47,11 @@
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ariffansyah&layout=compact&card_width=320&theme=github_dark" height="180" />
   <br>
-  <img src="https://komarev.com/ghpvc/?username=Ariffansyah&color=FF61A6&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Ariffansyah&color=00BCD4&style=for-the-badge" />
 </div>
 
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF61A6&height=100&section=footer" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00BCD4&height=100&section=footer" alt="footer" />
 </div>
