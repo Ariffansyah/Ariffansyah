@@ -28,7 +28,7 @@
 
 ## 👋 About Me
 
-- 🔭 Currently working on **Booknesa**
+- 🔭 Currently working on **Booknesa.com**
 - 🌱 Currently learning **Machine Learning & Computer Vision**
 
 <br>
