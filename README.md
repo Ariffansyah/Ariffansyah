@@ -85,8 +85,6 @@
 
 </div>
 
-<sub align="center">↳ requires a one-time GitHub Action setup — see <code>snake.yml</code> below</sub>
-
 <br><br>
 
 <div align="center">
