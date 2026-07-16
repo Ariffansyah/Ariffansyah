@@ -15,7 +15,7 @@ ariffansyah@github:~$ fastfetch
             `/++++/+++++++:              Role: Fullstack Developer Wannabe
            `/++++++++++++++:             Focus: Machine Learning & Computer Vision
           `/+++ooooooooooooo/`           Portfolio: https://arpthef.my.id
-         ./ooosssso++osssssso+`          Email: me@arpthef.my.id
+         ./ooosssso++osssssso+`          Email: arppthef@outlook.co.id
         .oossssso-````/ossssss+`         X: https://x.com/nishimiyaa12
        -osssssso.      :ssssssso.        LinkedIn: https://www.linkedin.com/in/arpthef/
       :osssssss/        osssso+++.
