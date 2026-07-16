@@ -37,7 +37,7 @@
       { "left": { "key": "Repos", "value": "{{repos}}" }, "right": { "key": "Stars", "value": "{{stars}}" } },
       { "left": { "key": "Commits", "value": "{{commits}}" }, "right": { "key": "Followers", "value": "{{followers}}" } },
       { "left": { "key": "Forks", "value": "{{forks}}" }, "right": { "key": "Following", "value": "{{following}}" } },
-      "loc"
+      { "left": { "key": "LOC", "value": "{{loc}}" }, "right": { "key": "Stargazers", "value": "{{stars}}" } }
     ]
   }
 }
