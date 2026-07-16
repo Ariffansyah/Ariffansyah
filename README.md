@@ -44,7 +44,7 @@ languages/
 ├── typescript
 ├── javascript
 ├── python
-└── bun
+└── java
 
 frontend/
 ├── svelte
