@@ -13,7 +13,7 @@ ariffansyah@github:~$ fastfetch
                -+oooooo+:                Uptime: Building Booknesa.com
              `/:-:++oooo+:               Shell: bun / node / python / go
             `/++++/+++++++:              Role: Fullstack Developer Wannabe
-           `/++++++++++++++:             Focus: Machine Learning & Computer Vision
+           `/++++++++++++++:             Focus: Web Development & Back-end Engineering
           `/+++ooooooooooooo/`           Portfolio: https://arpthef.my.id
          ./ooosssso++osssssso+`          Email: arppthef@outlook.co.id
         .oossssso-````/ossssss+`         X: https://x.com/nishimiyaa12
@@ -33,7 +33,6 @@ Hi, I'm Ariffansyah.
 Currently building: Booknesa.com
 Currently learning: Machine Learning & Computer Vision
 Role: Fullstack Developer Wannabe
-Principle: Keep it simple, ship it.
 ```
 
 ```text
