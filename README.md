@@ -10,7 +10,7 @@ ariffansyah@github:~$ fastfetch
                  `ooo/                   OS: Arch Linux x86_64
                 `+oooo:                  Host: github.com/Ariffansyah
                `+oooooo:                 Kernel: linux
-               -+oooooo+:                Uptime: Building Booknesa.com
+               -+oooooo+:                Uptime: doin som research
              `/:-:++oooo+:               Shell: bun / node / python / go
             `/++++/+++++++:              Role: Fullstack Developer Wannabe
            `/++++++++++++++:             Focus: Web Development & Back-end Engineering
@@ -30,8 +30,7 @@ ariffansyah@github:~$ fastfetch
 ariffansyah@github:~$ cat about.txt
 
 Hi, I'm Ariffansyah.
-Currently building: Booknesa.com
-Currently learning: Machine Learning & Computer Vision
+Currently building: research & hackathon
 Role: Fullstack Developer Wannabe
 ```
 
