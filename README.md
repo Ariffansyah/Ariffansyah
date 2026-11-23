@@ -1,81 +1,28 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=ariffansyah%40github%3A~%24+fastfetch;ariffansyah%40github%3A~%24+cat+about.txt;ariffansyah%40github%3A~%24+ls+stack;ariffansyah%40github%3A~%24+./stats+--github;ariffansyah%40github%3A~%24+echo+%22keep+shipping%22" alt="typing" />
-</p>
-
-```text
-ariffansyah@github:~$ fastfetch
-
-                   -`                    ariffansyah@github
-                  .o+`                   -------------------
-                 `ooo/                   OS: Arch Linux x86_64
-                `+oooo:                  Host: github.com/Ariffansyah
-               `+oooooo:                 Kernel: linux
-               -+oooooo+:                Uptime: doin som research
-             `/:-:++oooo+:               Shell: bun / node / python / go
-            `/++++/+++++++:              Role: Fullstack Developer Wannabe
-           `/++++++++++++++:             Focus: Web Development & Back-end Engineering
-          `/+++ooooooooooooo/`           Portfolio: https://arpthef.my.id
-         ./ooosssso++osssssso+`          Email: arppthef@outlook.co.id
-        .oossssso-````/ossssss+`         X: https://x.com/nishimiyaa12
-       -osssssso.      :ssssssso.        LinkedIn: https://www.linkedin.com/in/arpthef/
-      :osssssss/        osssso+++.
-     /ossssssss/        +ssssooo/-
-   `/ossssso+/:-        -:/+osssso+-
-  `+sso+:-`                 `.-/+oso:
- `++:.                           `-/+/
- .`                                 `/
-```
-
-```text
-ariffansyah@github:~$ cat about.txt
-
-Hi, I'm Ariffansyah.
-Currently building: research & hackathon
-Role: Fullstack Developer Wannabe
-```
-
-```text
-ariffansyah@github:~$ ls stack
-
-languages/
-├── go
-├── typescript
-├── javascript
-├── python
-└── java
-
-frontend/
-├── svelte
-├── react
-├── html5
-├── css3
-└── tailwindcss
-```
-
-```text
-ariffansyah@github:~$ ./stats --github
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ariffansyah/Ariffansyah/main/assets/header-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Ariffansyah/Ariffansyah/main/assets/header-light.svg" alt="Mohammad Ariffansyah, full-stack developer, Informatics Engineering at UNESA, Surabaya, Indonesia" width="100%" />
+</picture>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ariffansyah&theme=dark&hide_border=true&background=00000000&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="170" alt="streak" />
+  <samp>
+    <a href="https://arpthef.my.id">portfolio</a> .
+    <a href="https://arpthef.my.id/assets/cv/cv-en.pdf">cv</a> .
+    <a href="https://www.linkedin.com/in/arpthef/">linkedin</a> .
+    <a href="https://x.com/nishimiyaa12">x</a> .
+    <a href="mailto:arppthef@outlook.co.id">email</a>
+  </samp>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ariffansyah&theme=github-compact&hide_border=true&bg_color=00000000&color=58A6FF&line=58A6FF&point=ffffff" width="100%" alt="activity graph" />
-</p>
+I'm Ariffansyah, an Informatics Engineering student at Universitas Negeri Surabaya, originally from Jayapura, Papua. I build full-stack web apps, mostly backend work in TypeScript and Go, and lately a lot of three.js.
 
-```text
-ariffansyah@github:~$ ./snake --dark
-```
+Right now I'm a lab assistant at the UNESA Software Development Laboratory and a member of the Syntesa Software Engineering Lab. Before that I was a teaching assistant for Object Oriented Programming and Computer Architecture, and built websites freelance for [Booknesa](https://booknesa.com) and GenRe Papua.
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ariffansyah/Ariffansyah/output/github-contribution-grid-snake-dark.svg" alt="snake" />
-</p>
+Recent competitions:
 
-```text
-ariffansyah@github:~$ echo $PROFILE_VIEWS
-```
+- Gold Medal at the World Youth Invention and Innovation Award 2026, for an IoT early warning system for peatland fires
+- 1st place at INSYFEST 2026 with [Pivot](https://pivot.arpthef.my.id)
+- 3rd place at Hacknation Beyond Limit 2026 with [Physioverse](https://physioverse.arpthef.my.id/)
+- Semifinalist at UINIC 8.0 Web Development with [NusaVerse](https://nusaverse.naivaratech.com)
+- Silver Medal at the I30 Competition 2025, for earthquake detection firmware
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ariffansyah&color=58A6FF&style=flat-square&label=profile+views" alt="views" />
-</p>
+More on [arpthef.my.id](https://arpthef.my.id).
